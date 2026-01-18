@@ -118,7 +118,7 @@ This analysis demonstrates understanding of:
 - Wireshark filtering  
 - Security observations  
 
-These skills support SOC Tier 1 investigations and cybersecurity fundamentals.
+
 
 ---
 
