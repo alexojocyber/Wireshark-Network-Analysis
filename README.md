@@ -46,15 +46,26 @@ Wireshark-Network-Analysis/
 
 ---
 
-
-## Reports (Will be added)
-Reports will be placed inside /analysis, such as:
-
-- dns_analysis.md  
-- http_traffic_report.md  
-- suspicious_activity_report.md
+## Notes
+These analyses support my learning from the *Google Cybersecurity Certificate*, network security fundamentals, and SOC analyst training.
 
 ---
 
-## Notes
-These analyses support my learning from the *Google Cybersecurity Certificate*, network security fundamentals, and SOC analyst training.
+## 🔗 Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [SSH Brute Force Detection Lab](https://github.com/alexojocyber/SSH-BruteForce-Detection-Lab) | Real SSH attack simulation + Fail2Ban defense |
+| [Splunk SIEM Lab](https://github.com/alexojocyber/Splunk-SIEM-Lab) | Enterprise detection dashboard using Splunk Cloud |
+| [Python Log Parser](https://github.com/alexojocyber/Python-Log-Parser) | Automated Python script for brute force detection |
+| [Enterprise SIEM Lab](https://github.com/alexojocyber/SIEM-Investigation-Lab) | PAM brute-force detection with MITRE ATT&CK mapping |
+
+---
+
+## 👨‍💻 Author
+
+**Alex Ojo**
+Cybersecurity Student | SOC Analyst Trainee
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/alex-o-ojo-ab9252185)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/alexojocyber)
